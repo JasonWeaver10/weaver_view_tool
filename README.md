@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+WeaverViewTool::Renderer.copyright 'Jason Weaver', 'All rights reserved'
+```
 
 ## Development
 
